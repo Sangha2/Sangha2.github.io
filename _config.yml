@@ -1,6 +1,6 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
+title: 귀여운 상하의 일기
+description: 'Sangha Lee Blog'
 url: 'http://Sangha2.github.io'
 baseurl: ''
 profilepic: '/images/tzuehlke.jpg'
@@ -9,13 +9,13 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
+  name: 'Lee Sang ha'
   email: info@thomas-zuehlke.de
   twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
+  github_username:  Sangha2
   linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  meetup_name: Lee Sang ha
 
 # Build settings
 destination: _site
